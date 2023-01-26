@@ -1,0 +1,12 @@
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\bin\Debug\net7.0\Infomax.Models.deps.json
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\bin\Debug\net7.0\Infomax.Models.dll
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\bin\Debug\net7.0\Infomax.Models.pdb
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\obj\Debug\net7.0\Infomax.Models.csproj.AssemblyReference.cache
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\obj\Debug\net7.0\Infomax.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\obj\Debug\net7.0\Infomax.Models.AssemblyInfoInputs.cache
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\obj\Debug\net7.0\Infomax.Models.AssemblyInfo.cs
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\obj\Debug\net7.0\Infomax.Models.csproj.CoreCompileInputs.cache
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\obj\Debug\net7.0\Infomax.Models.dll
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\obj\Debug\net7.0\refint\Infomax.Models.dll
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\obj\Debug\net7.0\Infomax.Models.pdb
+D:\StudentMgmt-main\StudentMgmt-main\Infomax.Models\obj\Debug\net7.0\ref\Infomax.Models.dll
